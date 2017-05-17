@@ -1,0 +1,6 @@
+D:\Program_STAS\kp_spz\KP_consoleTesting\KP_consoleTesting\bin\Debug\KP_consoleTesting.exe.config
+D:\Program_STAS\kp_spz\KP_consoleTesting\KP_consoleTesting\bin\Debug\KP_consoleTesting.exe
+D:\Program_STAS\kp_spz\KP_consoleTesting\KP_consoleTesting\bin\Debug\KP_consoleTesting.pdb
+D:\Program_STAS\kp_spz\KP_consoleTesting\KP_consoleTesting\obj\Debug\KP_consoleTesting.csprojResolveAssemblyReference.cache
+D:\Program_STAS\kp_spz\KP_consoleTesting\KP_consoleTesting\obj\Debug\KP_consoleTesting.exe
+D:\Program_STAS\kp_spz\KP_consoleTesting\KP_consoleTesting\obj\Debug\KP_consoleTesting.pdb
